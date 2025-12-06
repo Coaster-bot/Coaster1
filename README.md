@@ -2,7 +2,9 @@
 pkg install nodejs git ffmpeg imagemagick wget -y
 
 𓅽  Clone your bot
-git clone https://github.com/coaster-bot/coaster.git
+
+git clone 
+https://github.com/Coaster-bot/Coaster1.git
 
 
 
